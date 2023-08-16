@@ -8,8 +8,8 @@ if ERRORLEVEL 1 (
 )
 
 echo Successfully installed required packages.
-echo Running main.pyw...
-start pythonw main.pyw
+echo Running autoclicker.py...
+start pythonw autoclicker.py
 
 echo Done!
 exit
